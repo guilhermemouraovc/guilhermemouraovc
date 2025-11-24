@@ -36,18 +36,6 @@ Currently working at **Heppi** and **Ticketpe**, crafting high-quality user expe
 
 ---
 
-## GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guilhermemouraovc&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermemouraovc&layout=compact&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com?user=guilhermemouraovc&theme=tokyonight" />
-
-</div>
----
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-mourão)
