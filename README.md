@@ -22,7 +22,7 @@ Currently working at **Heppi** and **Ticketpe**, crafting high-quality user expe
 <!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cobol/cobol.svg" width="45" />
+<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/cobol/cobol-original.svg" width="45" />
 
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
@@ -36,11 +36,11 @@ Currently working at **Heppi** and **Ticketpe**, crafting high-quality user expe
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=guilhermemouraovc&show_icons=true&theme=tokyonight&include_all_commits=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermemouraovc&show_icons=true&theme=tokyonight)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemouraovc&layout=compact&theme=tokyonight" />
+![GitHub Streak](https://streak-stats.demolab.com?user=guilhermemouraovc&theme=tokyonight)
 
-<img height="180" src="https://streak-stats.demolab.com?user=guilhermemouraovc&theme=tokyonight" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemouraovc&layout=compact&theme=tokyonight)
 
 </div>
 
