@@ -1,4 +1,4 @@
-# Hi there, welcome to my GitHub profile!
+# Hi there!
 
 I'm Guilherme Mourão  a web developer focused on building modern and efficient applications.  
 Currently working at **Heppi** and **Ticketpe**, crafting high-quality user experiences while expanding my full-stack skill set.
