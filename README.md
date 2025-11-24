@@ -24,7 +24,6 @@ Currently working at **Heppi** and **Ticketpe**, crafting high-quality user expe
 <!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/cobol/cobol-original.svg" width="45" />
 
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
